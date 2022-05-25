@@ -1,1 +1,1 @@
-olá
+console.log("olá");

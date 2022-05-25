@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisJr01/CursoNode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udb",
+    "crypto"
+  ],
+  "author": "Luis Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisJr01/CursoNode/issues"
+  },
+  "homepage": "https://github.com/LuisJr01/CursoNode#readme",
+  "description": ""
+}
